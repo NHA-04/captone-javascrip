@@ -10,30 +10,30 @@ Dưới đây là danh sách các thành viên trong dự án này: -**Nguyễn 
 
 Dự án bao gồm nhiều yêu cầu và được phân chia như sau:
 
-###Nguyễn Hoàng Anh
+### Nguyễn Hoàng Anh
 
 - Đảm nhận việc xây dựng chủ yếu ở phần 1, tức là 13 yêu cầu của phần Customer
 - Phần 1 nhỏ của phần 2: Trang quản trị (hiện,thêm,xóa,cập nhật sản phẩm)
 
-###Phạm Văn Hải
+### Phạm Văn Hải
 
 - Là người phát triển tiếp trang web , làm 3 yêu cầu còn lại của phần Trang quản trị.
 - Responsive trang web
 - Kiểm tra toàn diện code của trang web và liên kết trang quản trị và người dùng với nhau
 - Quay video trang web
 
-##Quy trình làm việc
+## Quy trình làm việc
 
 1. Khi nhận dự án thì nhóm trưởng chia nhiệm vụ sẽ thực hiện các yêu cầu được giao
 2. khi gặp khó khăn thì hỗ trợ lẫn nhau
 3. Thành viên thực hiện chỉnh sửa dựa trên ý kiến đóng góp từ người review
 
-##Theo dõi tiến độ
+## Theo dõi tiến độ
 
 - Chúng tôi theo dõi tiến độ của nhau dựa trên github
 - Thành viên được đặt thời hạn hoàn thành và báo cáo tiến độ 1 ngày 1 lần.
 
-##Liên hệ thành viên
+## Liên hệ thành viên
 Nếu bạn có bất kỳ câu hỏi hoặc phản hồi nào, hãy liên hệ qua email dự án của các thành viên:
 
 - nguyenanh1204004@gmail.com
